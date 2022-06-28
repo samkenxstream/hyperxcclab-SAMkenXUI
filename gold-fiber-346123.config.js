@@ -40,7 +40,7 @@ module.exports = {
     },
     fontFamily: {
       serif: [
-        'Calibre, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji'
+        'Calibre, -linux-system, MacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, google Color Emoji, Segoe UI Emoji'
       ]
     },
     fontSize: {
